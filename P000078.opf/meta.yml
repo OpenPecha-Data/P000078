@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors:
+  - མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
+  sku: RDI-SS-19
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Light Rays of the Sun:Shastra of Commentaries on the King of Tantra
+    bo: རྒྱུད་ཀྱི་རྒྱལ་པོའི་འགྲེལ་བ་ལེགས་བཤད་ཉི་མའི་འོད་ཟེར།
+  collection:
+    en: RDI Study Series–  Book 19
+    bo: ཐོས་བསམ་འཆད་ཉན་གྱི་རིམ་པ།–  དེབ། ༡༩
+  author:
+    en: Dakpo Tashi Namgyal
+    bo: དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Rigpe Dorje Institute
+    bo: རིག་པའི་རྡོ་རྗེ་གཙུག་ལག་སློབ་ཉེར་ཁང་།
+  sku: RDI-SS-19
+  category:
+    en: Secret Mantra
+    bo: གསང་སྔགས།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: RDI-SS-19.epub
+  description:
+    en: ''
+    bo: ''

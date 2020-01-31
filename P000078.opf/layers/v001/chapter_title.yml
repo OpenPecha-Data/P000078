@@ -1,0 +1,16 @@
+id: 0d883339d79346c79948af1fa4463c80
+annotation_type: chapter_title
+revision: '00001'
+annotations:
+- id: 8a6cdebf467c401399e8a347e590ab2b
+  span:
+    start: 62
+    end: 61
+- id: 8de09c8c35ed412f98b985399f0d0e77
+  span:
+    start: 63
+    end: 80
+- id: 45468fb5852b4c2b94c904b4bc82dc2e
+  span:
+    start: 493623
+    end: 493686
